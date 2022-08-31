@@ -1,1 +1,1 @@
-# Projeto de programa para gestão de recursos humanos
+# Programa para gestão de recursos humanos
